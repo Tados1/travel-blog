@@ -1,0 +1,73 @@
+{
+  "blogs": [
+    {
+      "title": "Budapest",
+      "content": "zszszs",
+      "country": "Hungary",
+      "image": null,
+      "id": 2
+    },
+    {
+      "title": "Plovdiv",
+      "content": "dsadsa",
+      "country": "Bulgaria",
+      "image": null,
+      "id": 3
+    },
+    {
+      "title": "Marseille",
+      "content": "sadas",
+      "country": "France",
+      "image": null,
+      "id": 4
+    },
+    {
+      "title": "Bari, Puglia",
+      "content": "Náš výlet začal vo Viedni odkiaľ sme leteli do Bari. Po prílete máte na výber buď vlak, kde vás jeden lístok výjde okolo 5€ alebo MHD za 1€, ktorá síce môže byť aj zadarmo dočítate sa neskôr priamo na centrálnu stanicu, ktorá bola naším východiskovým bodom pre následujúce výlety.\n            V Bari premávajú mestské autobusy prevádzkované spoločnosťou amtab. Lístok na 1 hodinu cestovania stojí 1€, ale ako som už čítal na niektorom cestovateľskom blogu, tak som si aj vlastnoručne overil, lístky v autobuse nekontroluje nikto, ak by chcel niekto ušetriť. Lístky sa dajú zakúpiť cez aplikáciu DropTicket, kde si pred jazdou stačí aktivovať zakúpený lístok. Pre jednoduché zorientovanie v trasiach mestských liniek autobusov odporúčam použiť aplikáciu Moovit. Doprava v Taliansku je chaotická, vládne tu anarchia, každý jazdí ako sa mu zachce, preto odporúčam byť na zástavkach MHD s predstihom 10 minút. V priemere každý autobus prišiel o 5 minút skôr, niektoré nás vďaka tomu obehli, ale tiež sa môže stať, že bude meškať aj 15 minút.\n            Ak sa do Bari chystáte v lete, môžete navštíviť buď východnú pláž Pane o Pomodoro, ktorá je zadarmo. V západnej časti sa nachádza súkromná pláž Lido San Francesco, kde stojí lehátko 10€ na osobu. Avšak odporúčam vycestovať mimo Bari, pretože miestne pláže nie sú zrovna najlepšie.\n            Čo sa týka pamiatok v Bari, všetky sa skrývaju v centre mesta. Pripájam aj fotografie miest, ktoré ma zaujali. Prvý deň sme navštívili 3 miesta: Alberobello, Locorotondo, Monopoli. Do Alberobella sme cestovali autobusom spoločnosti Ferrovie Del Sud Est. Autobusová zástavka nie je výrazne označená, no autobus stojí z južnej strany centrálnej stanice, naproti nej cez cestu. Hľadajte na autobuse názov spoločnosti. Návšteva Alberobella vám zaberie okolo 3 hodín, no pripravte sa všade na davy ľudí. Vzdialené 9 km od Alberobella sa nachádza mestečko Locorotondo. Prechádzka úzkymi bielymi uličkami vás odprostí od davov turistov. Sem sa dostanete z Alberobella vlakom, lístok si môžete kúpiť online na stránke trenitalia.com, Locorotondo je maximálne na 2 hodinky, odkiaľ naše cesty ďalej smerujú do mesta Monopoli, ktoré je pomerne podobné práve Locorotondu. Sem sa presúvame autobusom, autobusová zástavka je opäť neoznačená, preto prikladám gps súradnice odkiaľ nám autobus išiel (40.7560223, 17.3264309). Z Monopol už čo chvíľa jazdí vlak do Bari, kde lístky opäť nájdete na trenitalia.com. Ďalší deň sme sa vybrali do Matery. Za mňa najkrajšie miesto celej Apúlie. Cesta tam je trochu zložitejšia, ale napokon sme našli vhodné spojenie s prestupom v Altamure. Vlak spoločnosti Ferrovie Appulo Lucane nás doviezol do Matery za približne 1 hodinu a 45 minút. Dávajte však pozor, pretože vlak neodchádza priamo z centrálnej stanice. Na severnej strane centrálnej stanice (Piazza Aldo Moro) je budova, na ktorej je hore napísane Ferrovie Nord Barese, tu sa výťahom presuniete na horné poschodie, kde už sa nachádzaju koľaje s vaším vlakom. Je tu turniket, cez ktorý sa musí naskenovať lístok na vlak. Matera je minimálne na 4 hodiny, ale pokiaľ chcete pobehať aj okolité jaskyne, tak kľudne sa tam môžete zdržať aj celý deň. Turistov tam veľa tiež nebolo, čiže miesto pôsobí dosť pokojne. V následujúcich dňoch sme sa plne venovali kúpaniu v mori. Striedali sme mestá Polignano a Mare s Monopolmi. Oboje mestá sú od seba vzdialené 10 minút vlakom. Vlak sem premáva z Bari Centrale (lístky na trenitalia.com) každú chvíľu a cesta je okolo pol hodiny z Bari. Podotýkam že vlaky cez trenitalia.com sme využívali každý deň, no ani raz nikto lístky nekontroloval. Našou obľúbenou plážou sa stala Grotta della Cala tre Buchi, vzdialená 35 minút pešo od stanice v Monopoli. Na túto pláž sa ide z vedľajšej pláže Grotta Monte Milone cez vodu, kde je hĺbka vody do pol pása. Ak vám nevadí väčšie množstvo ľudí, potom sa vyberte určite na slávnu a nádhernú pláž Lama Monachile, nachadzajúcu sa priamo v centre mesta. No čo sa týka pláži, treba skúmať, v okolí Polignana a Monopol ich je veľa, treba si nájsť svoje podľa gusta. alebo sa navyše platí coperto (väčšinou je to uvedené v menu). Týmto spôsobom sa viete vyhnúť neprijemnému prekvapeniu v podobe väčšej sumy na účte ako by ste očakávali. Na doručovanie jedla až ku vám môžete využiť službu Glovo.",
+      "country": "Italy",
+      "id": 5
+    },
+    {
+      "title": "Tirana",
+      "content": "dsadsa",
+      "country": "Albania",
+      "image": null,
+      "id": 6
+    },
+    {
+      "title": "Paris",
+      "content": "dsad",
+      "country": "France",
+      "image": null,
+      "id": 7
+    },
+    {
+      "title": "Debrecen",
+      "content": "sdadas",
+      "country": "Hungary",
+      "image": null,
+      "id": 8
+    },
+    {
+      "title": "Milan",
+      "content": "Milan Bergamo",
+      "country": "Italy",
+      "image": null,
+      "id": 10
+    },
+    {
+      "title": "Ksamil, Sarande",
+      "content": "Predstavme si čoraz viac populárne albánske letovisko, kde sa najlepšie dopravíte letom na Korfu a odtiaľ trajektom. Cesta trajektom trvá zhruba hodinu a pol, pričom cena sa pohybuje v rozmedzí 20€ až 30€. My sme prileteli na Korfu v piatok o 23:00 s úmyslom stráviť prvý deň našej dovolenky tam. Ak sa ocitnete na Korfu v stredu, sobotu alebo nedeľu, neodporúčam nič iné ako celodennú plavbu so spoločnosťou Ionian Cruises, pre ktorú sme sa rozhodli aj my. Lístok sme kupovali na ich web stránke za 57€. Odchod 2 lodí bol z prístaviska o 8:45, nezabudnite sa dostaviť pol hodinu pred. Následne sme sa plavili cez celé Korfu až k 2 malinkým perlám pod Korfu - Paxos a Antipaxos, tu sme zakotvili na 2 hodinky v mestečku Lakka s neuveriteľne čistou vodou a pomerne prázdnou plážou. Následne nás očarovala exkurzia po týchto ostrovoch, kde sme loďou vstupovali do dvoch veľmi úzkych jaskýň, už len toto dobrodružstvo stojí za to. Posledný zástavkový bod nás čakal na pláži Mesovrika Beach (Antipaxos) kde sme si ešte vyše hodiny a pol vychutnali neuveriteľne čistú a priezračnú vodu. Cesta späť trvá 3 hodiny, no mení sa na nekonečnú párty, keď obe lode plávaju popri sebe, hudba graduje a ľudia sa oddávajú tancu. O 19ej sme priplávali do prístavu odkiaľ nám 20:45 išiel trajekt do albánskej Sarandy. Check-in otváraju hodinu pred odchodom. treba mať so sebou lístok a cestovný pas. Po príchode do Sarande ešte prejdete pasovou kontrolou. Lístky na trajekt zakúpite tu https://finikas-lines.liknoss.com/app\n\nĎalší deň sa prechádzame po meste, kde pláže nie sú úplne oslnivé, a preto sa rozhodujeme vyraziť do Ksamilu autobusom. Pred cestou je dôležité mať pri sebe albanské leky, keďže jedna jazda stojí 150 lekov (1,50€). Autobusy odchádzajú 6:30, 7:00, 8:00, 8:30, 9:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30, 18:30 z tohto miesta: https://goo.gl/maps/72d1s2Smdt4Rngv69 . Môžete tiež naskočiť na zástavkách tu: https://goo.gl/maps/CnEbsFwL7fat2uvM7 alebo https://goo.gl/maps/y9mhjFgrBFgPb3nk9  .Cesta trvá približne 25 minút.\n\nS platbou v eurách som nemal problém nikde, či už sa jednalo o reštaurácie, ubytovanie, pláže alebo malé potraviny a obchody so suvenírmi. Preto by som neodporúčal meniť veľké množstvo peňazí. Ja som si osobne zamenil len 20 €, no odporúčam mať peniaze v hotovosti. Za slnečníky sa dá platiť len v hotovosti a taktiež niektoré reštaurácie nemajú terminál. Ja som tú chybu spravil a pri výbere peňazí v miestnych automatoch som zistil, že si každý jeden účtuje 8€ za výber plus ďalších 9€ mi strhla moja banka za výber.\n\nSamotný Ksamil má nádhernu architektúru barov, pláži, skutočne sa s tým vyhrali do parády a stále aj na tom makajú keďže Ksamil ako aj Sarande sú stále rozostavané miesta. No v samotných vodách Ksamilu sme sa zdržali len jedeň deň. Lehátka tu výjdu od 25€ pre 2 osoby na deň a to mnohé z ních sú rezervované pre obyvateľov hotelov, pláže sú pomerne preplnené. Ak by ste chceli ušetriť je možnosť sa dostať chôdzou cez vodu na najbližší najmenší z troch ostrovov - Ishul Ksamil, kde si môžete zadarmo nájsť miesto pre osúšku. My sme ale volili cestu spomínaným autobusom na trase Ksamil - Sarande. Z tohto smeru autobusy jazdia o 7:00, 7:30, 8:30, 9:30, 10:30, 11:30, 12:30, 13:30, 14:30, 15:30, 16:30, 17:30, 18:30 a 19:30 s prvou zástavkou tu https://goo.gl/maps/hzFivZuWYhueSgeP6 , druhou zástavkou \nhttps://goo.gl/maps/w6bMoovLB8GTXa4J6  , treťou zástavkou https://goo.gl/maps/JupWNyZiDnZwchpr5  a poslednou zástavkou https://goo.gl/maps/4a6t4V1hHT9D4hWf8 odkiaľ to je okolo 20 minút pešo na prepojené pláže Shpella e Pellumbave a Plazhi i Pasqyrave, za lehátka pre 2 osoby sme nechali 15€. Je tu nádherná voda, menej ľudí a hlavne na naše gusto poriadné vlny.\n\nV noci to v Ksamile žije, v mnoho podnikoch pri pláži hrá živá hudba či DJ sa stará o poriadnu párty. Každý deň sme si vychutnali aj ohňostroj. Každopádne taktiež si pripravte dostatok peňazí pretože ceny za drinky sú tu pomerne drahé. 3,5€ až 8€ za pivo, miešané drinky vo vyhľadávanejších podnikoch od 9€. Medzi najdrahšie ale aj najkrajšie podniky patrí rozhodne Poda, Bianco Lounge a Principotes. \n\nCelkom ma prekvapilo, že ceny v obchodoch a v reštauráciach sú rovnaké ako u nás, čiže članky, kde sa dočítate o výhodnom stravovaní sa v reštauráciach sú už neaktuálne. Taktiež odporúčam si nabaliť dostatok opalovacieho krému, ten tu pod 11€ nekúpite.\n\nLietadlo domov nám letelo z Tirany. Sem jazdia autobusy zo Sarande. Lístky sme si kúpili tu, vytlačili sme papier, ktorý nám prišiel na email a pol hodinu pred odchodom  autobusu sme prišli na autobusovú zástavku, kde nám ho vymenili za lístky. Lístok na osobu stojí 15€. Autobus bol klimatizovaný, 5 hodín trvajúca cesta bola kľudná s jednou hodinovou prestávkou v polovici cesty. Takže naše obavy o starom neklimatizovanom autobuse so šialenou cestou ako sme sa na internete dočítali sa našťastie nepotvrdili. Ak chcete vidieť Tiranu, tak vás poteším, všetko je na jednom mieste okolo námestia Skanderbeg, odkiaľ chodí autobus na letisko v časoch 7:00, 8:00, 9:00, 10:00, 11:00, 12:00, 13:00, 14:00, 15:00, 16:00, 17:00, 18:00, 20:00, 22:00. Cena lístku je 300 lekov (3€).",
+      "country": "Albania",
+      "image": null,
+      "id": 14
+    },
+    {
+      "title": "Verona",
+      "content": "zszs",
+      "country": "Italy",
+      "image": null,
+      "id": 16
+    }
+  ]
+}

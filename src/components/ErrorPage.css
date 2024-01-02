@@ -1,0 +1,20 @@
+.error-content {
+    background-color: white;
+    height: 100vh;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.error-content h1 {
+    color: red;
+    font-size: 80px;
+}
+
+.error-content p a {
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-decoration: none;
+    list-style: none;
+}

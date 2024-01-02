@@ -1,0 +1,140 @@
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    max-width: 920px;
+    margin: 30px auto;
+}
+
+.gallery .single {
+    max-width: 300px;
+    cursor: pointer;
+}
+.gallery .single img {
+    width: 100%;
+    transition: transform linear 0.2s;
+}
+
+.gallery .single img:hover {
+    transform: scale(1.06);
+}
+
+.sliderWrap {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+.btn {
+    position: fixed;
+    cursor: pointer;
+    opacity: 0.6;
+    color: #fff;
+    font-size: 50px;
+    transition: all linear 0.2s;
+}
+
+.btnClose:hover {
+    color: rgb(202, 6, 6);
+}
+
+.btnNext:hover {
+    color: green;
+}
+
+.btnPrev:hover {
+    color: green;
+}
+
+.btnClose, .btnPrev, .btnNext {
+    opacity: 1;
+}
+
+.sliderWrap .btnClose {
+    top: 40px;
+    right: 40px;
+}
+
+.sliderWrap .btnPrev {
+    top: 55%;
+    transform: translateY(-50%);
+    left: 40px;
+}
+
+.sliderWrap .btnNext {
+    top: 55%;
+    transform: translateY(-50%);
+    right: 40px;
+}
+
+.fullScreenImage {
+    width: calc(100% - 40px);
+    height: calc(100% - 40px);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.fullScreenImage img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.sliderText p {
+    color: rgb(233, 233, 233);
+    margin-top: 0px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* ---------------------- CSS media queries ------------------- */
+
+@media only screen and (max-width: 950px) {
+    .gallery {
+        max-width: 800px;
+    }
+
+    .gallery .single {
+        max-width: 200px;
+    }
+
+    .fullScreenImage {
+        width: 70%;
+    }
+
+    .sliderText p {
+        font-size: 16px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+    .gallery {
+        max-width: 600px;
+    }
+    
+    .sliderWrap .btnClose {
+        right: 18px;
+        font-size: 40px;
+    }
+
+    .btn {
+        font-size: 35px;
+    }
+
+    .sliderWrap .btnPrev {
+        left: 20px;
+    }
+    
+    .sliderWrap .btnNext {
+        right: 20px;
+    }
+    
+}

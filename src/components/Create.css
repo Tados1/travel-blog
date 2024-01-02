@@ -1,0 +1,213 @@
+.create {
+    background-color: #0A2647;
+    height: 93vh;
+    text-align: center;
+}
+
+.create-content {
+    position: relative;
+    background-color: #205295;
+    width: 60%;
+    height: 700px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 53.5%;
+    font-family: sans-serif;
+    z-index: 5;
+}
+
+.create-content form {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.create-content form h1 {
+    font-size: 50px;
+    color: #042142;
+}
+
+.create-content form label {
+    text-align: start;
+    font-size: 20px;
+    padding: 10px 0px;
+    font-family: sans-serif;
+    color: black;
+}
+
+.title-country-image {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+.title input {
+    background-color: #204a81;
+    padding: 5px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+}
+
+.country {
+    width: 18%;
+    display: flex;
+    flex-direction: column;
+}
+
+.country select {
+    border: none;
+    background-color: #204a81;
+    font-size: 19px;
+    cursor: pointer;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    width: 27%;
+}
+
+.image input {
+    background-color: #204a81;
+    padding: 5px;
+    font-size: 15px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+.body {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.body textarea {
+    background-color: #204a81;
+    border: none;
+    outline: none;
+    width: 100%;
+    height: 100%;
+    padding: 5px;
+    font-size: 20px;
+    resize: none;
+}
+
+.create-content form button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: #07325f;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 20px auto;
+    transition: all 0.3s linear;
+}
+
+
+.create-content form button:hover {
+    background-color: #147c1d;
+}
+
+/* ---------------------- CSS media queries ------------------- */
+
+@media only screen and (max-width: 1250px) {
+    .create-content {
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 930px) {
+    .country {
+        width: 22%;
+    }
+
+    .image {
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 760px) {
+    .title {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .country {
+        width: 40%;
+    }
+
+    .image {
+        width: 58%;
+    }
+
+    .body textarea {
+        height: 70%;
+        margin: 0;
+    }
+
+    .create-content form button {
+        border-radius: 5px;
+        margin: -60px auto;
+    }
+}
+
+
+@media only screen and (max-width: 620px) {
+    .create-content {
+        height: 600px;
+    }
+
+    .create-content form h1 {
+        font-size: 30px;
+        margin: -40px auto 0px auto;
+    }
+
+    .body textarea {
+        height: 70%;
+    }
+
+    .create-content form button {
+        border-radius: 5px;
+        margin: -70px auto;
+        font-size: 17px;
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    .create-content {
+        height: 500px;
+    }
+
+    .body textarea {
+        height: 40%;
+    }
+
+    .create-content form button {
+        border-radius: 5px;
+        margin: -180px auto;
+        font-size: 17px;
+    }
+}

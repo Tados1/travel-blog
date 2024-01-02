@@ -1,0 +1,92 @@
+.articles {
+    background-color: #0A2647;
+    border: 1px solid #0A2647;
+}
+
+.articles-list {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 20px;
+    gap: 20px;
+}
+
+.one-article {
+    width: 350px;
+    height: 300px;
+    box-shadow: 0px 0px 10px black;
+    background-color: #2C74B3;
+    cursor: pointer;
+    transition: transform linear 0.2s;
+}
+
+.one-article:hover {
+    transform: scale(1.03);
+}
+
+.one-article img {
+    width: 100%;
+    height: 60%;
+}
+
+.one-article a {
+    text-decoration: none;
+    list-style: none;
+}
+
+.one-article h1 {
+    padding-top: 30px;
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* ---------------------- CSS media queries ------------------- */
+
+@media only screen and (max-width: 1550px) {
+    .one-article {
+        width: 250px;
+        height: 200px;
+    }
+
+    .one-article h1 {
+        padding-top: 15px;
+        font-size: 23px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .one-article {
+        width: 200px;
+        height: 150px;
+    }
+
+    .one-article h1 {
+        padding-top: 10px;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+
+    .one-article h1 {
+        padding-top: 5px;
+        font-size: 16px;
+    }
+
+    .one-article {
+        width: 150px;
+        height: 100px;
+    }
+
+}
+
+@media only screen and (max-width: 530px) {
+    .one-article {
+        width: 200px;
+        height: 150px;
+    }
+}
